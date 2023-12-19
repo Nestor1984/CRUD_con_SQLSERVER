@@ -1,0 +1,6 @@
+.img-fluid {
+    max-width: 50%;
+    height: auto;
+    border-radius: 10px; /* Bordes redondeados para un aspecto más elegante */
+    margin-bottom: 20px;
+}
